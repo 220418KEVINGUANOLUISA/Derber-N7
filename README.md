@@ -49,6 +49,8 @@ Comprender como dunciona una bobina e inductacnia con el campo magnetico
 
 4. Video
 
+https://www.youtube.com/watch?v=9iMw7FerFCk
+
 5. Conclusiones
 
 Podemos concluir que al realizar el siguiente informe se pudo aprender más el uso de capacitores e inductores comprendiendo de mejor manera como influye la frecuencia en los cambios de sus valores, entendiendo de manera optima el uso y lectura de ondas seno; y con la resolución de los ejercicios de los capítulos reforzamos los temas tratados en clase.
